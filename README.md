@@ -2,5 +2,5 @@
 - 👀 I’m interested in all things programming and development.
 - 🌱 I’m currently learning javascript and backend technologies
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me - Here! 
+- 📫 How to reach me - martinmarcoscarranza@gmail.com
 
